@@ -1,0 +1,8 @@
+   y_predict
+           0      1
+  app  23676      0
+  rej    672 403425
+  
+  
+  correct predictions total were 427,101 while 672 were false. The independent variable are a good predictor of whether a loan would be accepted 
+  or rejected
